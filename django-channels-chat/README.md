@@ -5,3 +5,4 @@
 
 install redis-server 
 and run it
+if any query message me
